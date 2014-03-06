@@ -1,7 +1,12 @@
 escolaecidade
 =============
 
-versao 1 do código do curso *Escola e Cidade: Políticas Públicas Educacionais*
---------------
+Primeira versão do código do curso *Escola e Cidade: Políticas Públicas Educacionais* da UFMG.
 
-Feito por @acideater utilizando Bootstrap
+Features:
+
+- sidebar fixa
+- layout responsivo
+
+
+Feito por @acideater utilizando Bootstrap.
